@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Meu nome é Caio Leon Almeida Andrade Michalewicz, (meus pais realmente não economizaram nos nomes) e sou estudante de Ciência da Computação na Cesar School
 </p>
 
 <p align="left">
