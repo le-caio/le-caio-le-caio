@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: VSCode
 </p>
 
 <p align="left">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="claam@cesar.school" title="Gmail">
+  <a href="mailto:claam@cesar.school" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="www.linkedin.com/in/caio-leon-michalewicz-4802a9367" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
